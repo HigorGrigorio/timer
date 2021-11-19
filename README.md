@@ -1,4 +1,4 @@
-## timer
+## Timer
  A basic timer made in javascript
 
 ## Screenshot 
